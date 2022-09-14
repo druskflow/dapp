@@ -10,3 +10,7 @@ This can give you insight of what you can do differently if you could see how yo
 
 Generative NFT drop:
 NFTs are already a solved problem, the smart contracts you would create are almost the same for all.
+
+DeFi Bot:
+This could mean a lot of different things. Eg A cryto currency trading bot, 
+trading bots, arbitrage bots etc, flash loans...
