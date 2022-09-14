@@ -16,3 +16,4 @@ This could mean a lot of different things. Eg A cryto currency trading bot,
 trading bots, arbitrage bots etc, flash loans...nft bots, buy when they are being dropped, have a btot that recognize the mint function
 
 Blockchain based API: This stands in the middle of web 2.0 and web 3.0
+API is a web service that lets people request information from it or post information to it. e.g RapidAPI
