@@ -1,6 +1,6 @@
 echo -e 'Initial' > README.md
 
-Initial
+Initial documentation
 Top Dapp Ideas:
 
 DeFi Dashboard: 
