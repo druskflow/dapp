@@ -17,3 +17,5 @@ trading bots, arbitrage bots etc, flash loans...nft bots, buy when they are bein
 
 Blockchain based API: This stands in the middle of web 2.0 and web 3.0
 API is a web service that lets people request information from it or post information to it. e.g RapidAPI
+
+test case
