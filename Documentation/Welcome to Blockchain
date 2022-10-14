@@ -1,0 +1,22 @@
+Blockchain - peer to peer transactions in a decentralized network
+
+Smart contracts allow for aggrements without centralized intermediaries.
+
+It is a self executing set of instructions that is executed without a third party intermidiary 
+
+Smart Contracts, are written in code and automatically executed by the descentralized blockchain network
+
+
+BTC is an asset but Eth is an asset and utility
+
+Blockchain has the oracle problem. Blockchains are deterministic systems.
+They are walled, nothing outside can work inside. Oracles are devices that bring data into the blockchain - 
+for them to stay decentralized they.
+
+Chainlink is a decentralized modular oracle network that allows you to ring data into your smart contracts. These are 
+hybrid smart contracts that can have this on-chain settlement and interact with the real world.
+This allows us to customiuze our smart contracts in anyway we wantt as we can bring in external data ands delevate them to do anything we want.
+
+Hybrid smart contracts - refer to this. This is specifically a smart contract with aan off chain component
+
+Chainlink is a smart contract platform agnostic, meaning it will work on ethereum, avalanche, polygon, polkadot or any blockchain with a smartcontract platform out there
